@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodosimpleApplication {
+public class listaDeAfazeres {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodosimpleApplication.class, args);
+		SpringApplication.run(listaDeAfazeres.class, args);
 	}
 
 }

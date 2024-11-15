@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.raphazrz</groupId>
-	<artifactId>todosimple</artifactId>
+	<artifactId>listaDeAfazeres</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>todosimple</name>
+	<name>listaDeAfazeres</name>
 	<description>Spring Boot API for To Do App</description>
 	<url/>
 	<licenses>
